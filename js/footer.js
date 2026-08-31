@@ -161,7 +161,7 @@ footer.innerHTML = `
   </div>
   <div class="d-flex flex-column flex-md-row justify-content-between align-items-center mt-5 gap-4 px-4 text-white" style="font-size: 0.8rem">
     <p>All rights reserved 2022 © Glimpse Digital Agency</p>
-    <p>Office 709 Publishing Pavilion, Dubai Production City, Dubai, UAE.</p>
+    <p><a href="https://maps.app.goo.gl/twJVT14n6tq7mTXt8" target="_blank" class="text-white">Office 709 Publishing Pavilion, Dubai Production City, Dubai, UAE.</a></p>
   </div>
 </footer>
     `;
