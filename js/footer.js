@@ -118,6 +118,9 @@ footer.innerHTML = `
       <!-- Links -->
       <h6 class="fw-bold mb-4 gradient-text-small">Support</h6>
       <p>
+        <a href="/faq" class="text-decoration-none text-white">Faq</a>
+      </p>
+      <p>
         <a href="/contactus" class="text-decoration-none text-white">Contact Us</a>
       </p>
       <p>

@@ -1016,6 +1016,14 @@ figure img {
   font-family: "Cera Pro Regular";
 }
 
+/* FAQ SECTION */
+.faq__section .button-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding-top: var(--r30);
+}
+
 /* CONTACT */
 #contact .contact-img {
   width: 100%;
